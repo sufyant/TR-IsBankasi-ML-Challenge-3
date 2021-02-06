@@ -1,19 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks,data,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks,data,venv
 
-### Data ###
-*.csv
-*.dat
-*.efx
-*.gbr
-*.key
-*.pps
-*.ppt
-*.pptx
-*.sdf
-*.tax2010
-*.vcf
-*.xml
+### Submission ###
+Submission
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
